@@ -41,3 +41,5 @@ Contact:
 
 * Rapi Castillo – rapicastillo.work@gmail.com
 * suzi grishpul
+
+Note: This is using tips from [Github s3 Deploy](https://github.com/nytlabs/github-s3-deploy) to deploy.
